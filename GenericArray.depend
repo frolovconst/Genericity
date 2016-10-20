@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1475691742 source:c:\users\konstantin\code\cb\genericarray\main.cpp
+	<iostream>
+	<stdio.h>
+	"test.h"
+	"myStack.h"
+	"GenArrayClass.h"
+
+1475226498 c:\users\konstantin\code\cb\genericarray\test.cpp
+	<iostream>
+
+1475226898 source:c:\users\konstantin\code\cb\genericarray\test.cpp
+	<iostream>
+
+1475227621 c:\users\konstantin\code\cb\genericarray\test.h
+
+1475233859 source:c:\users\konstantin\code\cb\genericarray\genarrayclass.cpp
+
+1475691700 c:\users\konstantin\code\cb\genericarray\genarrayclass.h
+	<iostream>
+	<exception>
+
+1475691684 c:\users\konstantin\code\cb\genericarray\mystack.h
+	"GenArrayClass.h"
+	<iostream>
+
